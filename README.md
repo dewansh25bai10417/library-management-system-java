@@ -42,8 +42,8 @@ LibraryManagementSystem/
 
 ### 2. Clone the repository
 ```
-git clone https://github.com/<your-username>/<repo-name>.git
-cd <repo-name>
+git clone https://github.com/dewansh25bai10417/library-management-system-java.git
+cd library-management-system-java
 ```
 
 ### 3. Compile
