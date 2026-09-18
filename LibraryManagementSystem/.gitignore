@@ -1,3 +1,7 @@
 out/
 *.class
 data/*.txt
+bin/
+target/
+.vscode/
+.idea/
